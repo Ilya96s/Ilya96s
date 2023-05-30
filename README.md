@@ -43,23 +43,21 @@
 
 ### Projects
 - [URL Shortcut](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Dream Job](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Car Accident](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Cinema](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Todo list](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Grabber](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Pooh JMS](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Tracker](https://github.com/Ilya96s/job4j_url_shortcut)
+- [Dream Job](https://github.com/Ilya96s/job4j_dreamjob))
+- [Car Accident](https://github.com/Ilya96s/job4j_accidents))
+- [Cinema](https://github.com/Ilya96s/job4j_cinema)
+- [Todo list](https://github.com/Ilya96s/job4j_todo)
+- [Grabber](https://github.com/Ilya96s/job4j_grabber)
+- [Pooh JMS](https://github.com/Ilya96s/job4j_pooh)
+- [Tracker](https://github.com/Ilya96s/job4j_tracker)
 
 ---
 
-### My stat
+### My stats
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?ilya96s=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?ilya96s=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?ilya96s=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya96s&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilya96s&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya96s&theme=github_dark" alt=""/>
 </div>
-
----
 
