@@ -3,7 +3,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
----
 
 ### About me
 - I am 26 year old programmer from Novosibirsk
