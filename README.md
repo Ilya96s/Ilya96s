@@ -43,8 +43,8 @@
 
 ### Projects
 - [URL Shortcut](https://github.com/Ilya96s/job4j_url_shortcut)
-- [Dream Job](https://github.com/Ilya96s/job4j_dreamjob))
-- [Car Accident](https://github.com/Ilya96s/job4j_accidents))
+- [Dream Job](https://github.com/Ilya96s/job4j_dreamjob)
+- [Car Accident](https://github.com/Ilya96s/job4j_accidents)
 - [Cinema](https://github.com/Ilya96s/job4j_cinema)
 - [Todo list](https://github.com/Ilya96s/job4j_todo)
 - [Grabber](https://github.com/Ilya96s/job4j_grabber)
